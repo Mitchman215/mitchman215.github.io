@@ -5,8 +5,17 @@ export default function Bio() {
       <p class="section__subtitle section__subtitle--about">bio subtitle</p>
 
       <div class="about-me__body">
-        <p>paragraph 1</p>
-        <p>paragraph 2</p>
+        <p>
+          Lorem ipsum dolor sit amet consectetur adipisicing elit. Magnam, labore
+          cupiditate maiores autem repudiandae eveniet laudantium, tempora magni
+          obcaecati consequatur nesciunt quam corrupti molestias rerum temporibus.
+          Placeat nostrum necessitatibus voluptates!
+        </p>
+        <p>
+          Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia, iusto!
+          Maxime corporis nobis ab, minima harum sit quisquam atque quam accusantium
+          nulla eum aspernatur placeat ut impedit praesentium dignissimos animi.
+        </p>
       </div>
     </section>
   )

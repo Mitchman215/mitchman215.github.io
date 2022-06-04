@@ -10,6 +10,10 @@ export default function Interests() {
         <Interest interest="AI" description={placeholder} />
         <Interest interest="Mobile Development" description={placeholder} />
       </div>
+
+      <a href="#work" class="btn">
+        My Work
+      </a>
     </section>
   )
 }

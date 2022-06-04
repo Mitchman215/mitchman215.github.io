@@ -7,14 +7,16 @@ import Projects from "./Projects"
 
 function App() {
   return (
-    <div>
+    <>
       <Header />
-      <Introduction />
-      <Interests />
-      <Bio />
-      <Projects />
-      <Contact />
-    </div>
+      <main>
+        <Introduction />
+        <Interests />
+        <Bio />
+        <Projects />
+        <Contact />
+      </main>
+    </>
   )
 }
 

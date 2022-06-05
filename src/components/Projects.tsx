@@ -2,7 +2,7 @@ export default function Projects() {
   return (
     <section class="my-work" id="work">
       <h2 class="section__title">My Projects</h2>
-      <p class="section__subtitle">projects subtitle</p>
+      <p class="section__subtitle section__subtitle--work">projects subtitle</p>
 
       <div class="portfolio">
         <a href="#" class="portfolio__item">

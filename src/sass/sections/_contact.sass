@@ -1,0 +1,35 @@
+@use "../abstracts" as *
+
+.contact
+  background: #111
+  color: var(--clr-accent)
+  text-align: center
+  padding: 2.5em 0
+  font-size: var(--fs-h3)
+
+  a
+    color: inherit
+    text-decoration: none
+
+
+.contact__link
+  font-weight: var(--fw-bold)
+
+  &:hover
+    opacity: .7
+    text-decoration: underline
+
+
+.social-list
+  list-style: none
+  display: flex
+  justify-content: center
+  margin: 2em 0 0
+  padding: .5em
+
+  &__item
+    margin: 0 .5em
+
+  &__link:hover
+    opacity: .7
+
